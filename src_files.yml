@@ -1,0 +1,26 @@
+Klessydra-Morph:
+  incdirs: [
+    .,
+  ]
+  files: [
+    klessydra-OoO/PKG_RiscV_Klessydra.vhd
+    klessydra-OoO/RTL-Load_Store_Unit.vhd
+    klessydra-OoO/RTL-Accumulator.vhd
+    klessydra-OoO/RTL-Multiplier_Divider.vhd
+    klessydra-OoO/RTL-Commit_Counters.vhd
+    klessydra-OoO/RTL-Processing_Pipeline.vhd
+    klessydra-OoO/RTL-CSR_Unit.vhd
+    klessydra-OoO/RTL-Program_Counter_unit.vhd
+    klessydra-OoO/RTL-Debug_Unit.vhd
+    klessydra-OoO/RTL-Registerfile.vhd
+    klessydra-OoO/RTL-DSP_Unit.vhd
+    klessydra-OoO/RTL-Register_Renaming.vhd
+    klessydra-OoO/RTL-ID_STAGE.vhd
+    klessydra-OoO/RTL-Reorder_Buffer.vhd
+    klessydra-OoO/RTL-IE_STAGE.vhd
+    klessydra-OoO/RTL-Scratchpad_Memory_Interface.vhd
+    klessydra-OoO/RTL-IF_STAGE.vhd
+    klessydra-OoO/RTL-Scratchpad_Memory.vhd
+    klessydra-OoO/RTL-Instr_Issue.vhd
+    klessydra-OoO/STR-Klessydra_top.vhd
+  ]
