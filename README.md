@@ -8,4 +8,4 @@ Intro: The Klessydra processing core family is a set of processors featuring ful
 
 Architecture: Klessydra-OoO is a six pipeline stage processor Fetch-Decode, Rename, Issue, Registerfile, Execute/Ld-Str, Writeback. The Renamed register file has a parametrizable number of registers. The registerfile can support up-to twelve read ports and three write ports. A commit counter handles the out-of-order commit of the registers, and an ROB handles the recovery in case of traps or branch misses.
 
- The OoO furhter supports the vector accelerator present in the T2M, T13, and S1.
+ The OoO furhter supports the vector accelerator present in the Morph, T13, and S1.
